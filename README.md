@@ -1,4 +1,4 @@
-# Experiment-7--Implementation-of-Speech-Recognition
+# Ex--07--Implementation-of-Speech-Recognition
 
 ## Aim:
  Construct a python program to implement speech recognition.
@@ -24,9 +24,9 @@ Print the transcribed text on the console if the transcribe process was successf
 Handle any potential errors during the transcribing process. If the audio is not clear, print "not clear". If there's an error while trying to retrieve the transcribed text from the Google speech recognizer, print "Couldnt get results from google speech recognizer".<br>
 
 ## Program:
-Developed by: Naveen Kumar A
+Developed by: KERSOAN P
 
-Register number:212221240032
+Register number: 21221230050
 ~~~
 import speech_recognition as sr
 
