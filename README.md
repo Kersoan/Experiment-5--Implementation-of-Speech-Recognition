@@ -1,4 +1,4 @@
-# Experiment-7--Implementation-of-Speech-Recognition
+# Ex-07--Implementation-of-Speech-Recognition
 
 ## Aim:
  Construct a python program to implement speech recognition.
@@ -17,8 +17,8 @@ Anaconda – Python 3.7 Installation / Google Colab /Jupiter Notebook
 
 ## Program:
 ```
-Name: Pragatheesvaran AB
-Reg.No: 212221240039
+Name: KERSOAN P
+Reg.No: 212221230050
 ```
 ```py
 import speech_recognition as sr
